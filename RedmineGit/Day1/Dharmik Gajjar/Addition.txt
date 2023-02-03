@@ -1,0 +1,6 @@
+step 1 : Start
+step 2 : declare two variables
+step 2 : take two numbers from user
+step 3 : add these two numbers 
+step 4 : print the sum of the two digits
+step 5 : stop

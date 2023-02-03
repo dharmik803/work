@@ -1,0 +1,6 @@
+step 1 : Start
+step 2 : declare the variable radious
+step 3 : take input from user of radious 
+step 4 : area = 3.14* R *R 
+step 5 : display area
+step 6 : stop

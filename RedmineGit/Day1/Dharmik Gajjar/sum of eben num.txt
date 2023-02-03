@@ -1,0 +1,7 @@
+step 1 : start
+step 2 : read number N, imitially i = 1, sum = 0
+step 3 : while i is not equal to N 
+step 4 : while i%2 == 0 do sum = sum + i and increment i by one 
+step 5 : if not then increment i by one
+step 6 : when i = N print the sum
+step 7 : stop

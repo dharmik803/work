@@ -1,3 +1,0 @@
-Today, first i created a repository named "college asignment". After that i did clone the repository. Then after added some assignments, commited the changes locally and puch my changes to remote.
-
-Then opened exsisting repository and cloned it and did changes in file and commited it.
